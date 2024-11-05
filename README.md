@@ -153,7 +153,7 @@ Système de bénédiction par les dieux grecs.
 - 
 - Sur élève une zone autour du lanceur de plusieur bloc et pose de l'eau en sont contour pour pousser les monstres.
 
-#### SDéméter: Plantes
+#### Déméter: Plantes
 - Créer une zone de baie sauvage qui met beaucoup de dégâts sur le temps
 - 
 - Créer une barrière autour du lanceur de baies
