@@ -137,63 +137,63 @@ Distance:
 
 Système de bénédiction par les dieux grecs.
 
-Zeus: Foudre
+#### Zeus: Foudre
 - Foudre qui tombe sur une large zone
 - Eclaire unique qui décuple les dégâts de foudre
 - 
 
-Héra: Lien unique
+#### Héra: Lien unique
 - Créer dans un large zone un effet de lien qui partage les dommages entre tout les monstres
 - Se lie avec le monstre ce qui decuple tout les degats recu avec ce dernier tant qu'il est focus
 - 
 
 
-Poséidon: Eau
+#### Poséidon: Eau
 - Créer un troue sous les pied des monstres et le remplie d'eau
 - 
 - Sur élève une zone autour du lanceur de plusieur bloc et pose de l'eau en sont contour pour pousser les monstres.
 
-Déméter: Plantes
+#### SDéméter: Plantes
 - Créer une zone de baie sauvage qui met beaucoup de dégâts sur le temps
 - 
 - Créer une barrière autour du lanceur de baies
 
-Apollon: Purification
+#### Apollon: Purification
 - Purifie sur une zone tout les monstres présent
 - 
 - Purifie tout les allies dans une zone autour du lanceur
 
-Artémis: Animaux
+#### Artémis: Animaux
 - Octroie d'avantage de nourriture de monstre lorsqu'ils meurent
 - Met l'état familier et multiplie temporairement les dégâts
 - Protèges les familier des invocateur allies proche du lanceur
 
-Arès: Guerre
+#### Arès: Guerre
 - Créer dans une large zone une confusion générale dans un temps court
 - Créer une confusion ce qui le rend agressif avec tout le monde dans un temps long
 - 
 
-Aphrodite: Procréation
+#### Aphrodite: Procréation
 - 
 - Cible une permiere fois sur un monstre puis sur un autre monstre (la meme race) Creer un familier special
 - Double les familier classique des invocateur a proximite du lanceur
 
-Hermès: Voyage
+#### Hermès: Voyage
 - 
 - Téléporte a étage du dessus la cible
 - Téléporte le groupe au hub d'avant
 
-Athéna: Sagesse
+#### Athéna: Sagesse
 - 
 - 
 - Si considère dans un chunk de cite octroie temporairement une trêve
 
-Héphaïstos: Forge
+#### Héphaïstos: Forge
 - Enclume qui atterrissent sur chaque bloque dans une large zone 
 - Plusieurs enclume tombent sur la cible
 - Octroie un buff des dégâts physique du groupe
 
-Hestia: Foyer
+#### Hestia: Foyer
 - 
 - 
 - Créer dans le chunk actuel un effet foyer (cite)
