@@ -220,59 +220,59 @@ Les effet des potion sont applicable sur une arme CAC mais augment le cd. x1.5 n
 
 
 ## Etage
-En suivant la suite de Fibonaccci on aurais:
-0	1	1	2	3	5	8	13	21	34	55	89	144	233	377
+En suivant la suite de Fibonaccci on aurais:  
+0	1	1	2	3	5	8	13	21	34	55	89	144	233	377  
 
 Les etage serons par famille, Hub serons un endroits de paix sans monstre qui permettra le repos et l'evolution des equipements. Des PNJ permettre d'echanger les ressources classique contre de l'emeraude pour le commerce. Emeraude sera detruit dans un systeme de taxe lors de l'utilisation des machine pour metier.
 
-Pour les premiers hub je sais pas trop. J'aimerais cut tout ce qui est tuto donc faire les etages directement dans une meme dimension.
-1 Hub de depart avec surement du commerce. Un commerce d'ailleur unique pour chaque hub.
-2 Hub des Metiers
-3 Hub de guilde a la Isekai
+Pour les premiers hub je sais pas trop. J'aimerais cut tout ce qui est tuto donc faire les etages directement dans une meme dimension.  
+1 Hub de depart avec surement du commerce. Un commerce d'ailleur unique pour chaque hub.  
+2 Hub des Metiers  
+3 Hub de guilde a la Isekai  
 
-Aucun equipement ne sera donne mais une table de craft en bois sera donner pour permettre de confectionner une premiere arme plus facilement.
-Enssuite faire une genre de survie classique peut etre mais remanié
+Aucun equipement ne sera donne mais une table de craft en bois sera donner pour permettre de confectionner une premiere arme plus facilement.  
+Enssuite faire une genre de survie classique peut etre mais remanié  
 
-4 "Premiers pas"
-Foret Chene et Bouleaux (Zombie) **Cuir** commun (et bois pour armes)
+4 "Premiers pas"  
+Foret Chene et Bouleaux (Zombie) **Cuir** commun (et bois pour armes)  
 
-A noter que des table de craft avec d'autre outil de confection serons posable pour etablir un camp.
-Le calme n'existera pas pour les etage offensif
+A noter que des table de craft avec d'autre outil de confection serons posable pour etablir un camp.  
+Le calme n'existera pas pour les etage offensif  
 
-5 Premier Hub Pacifique "Le debut ne fais que commencer": Cité des 4000 paquerettes
-(Il regroupe tout ce qu'il y avais étage 1, 2 et 3 en un seul étage)
+5 Premier Hub Pacifique "Le debut ne fais que commencer": Cité des 4000 paquerettes  
+(Il regroupe tout ce qu'il y avais étage 1, 2 et 3 en un seul étage)  
 
-Via un portail abandonne qui aura etais restore pour acceder au Nether
+Via un portail abandonne qui aura etais restore pour acceder au Nether  
 
-6 Nether Wastes (Piglin) **Gold**
-7 Nether Wastes (Piglin et Piglin zombie) **Gold**
+6 Nether Wastes (Piglin) **Gold**  
+7 Nether Wastes (Piglin et Piglin zombie) **Gold**  
 
-Un Chef des Piglin Clandestins (PNJ) garde le passage vers le Village Clandestin. Des lingots d'or en guise de paiement sera necessaire.
-8 Hub: Village Clandestin
+Un Chef des Piglin Clandestins (PNJ) garde le passage vers le Village Clandestin. Des lingots d'or en guise de paiement sera necessaire.  
+8 Hub: Village Clandestin  
 
-De retour sur terre grace au portail que les Piglin clandestin marchandent. retour vers la zone precedente possible gratuitement. (pour recuperer de quoi payer l'acces au village et cette fois payer l'acces au portail)
+De retour sur terre grace au portail que les Piglin clandestin marchandent. retour vers la zone precedente possible gratuitement. (pour recuperer de quoi payer l'acces au village et cette fois payer l'acces au portail)  
 
-9 Montagne avec un village abandonné peuplé des golems **Fer**
-10 Foret de sapin (Ours) **Cuir d'Ours** viande d'ours
-11 Faille au milieux d'une foret de sapin avec Ours en haut et Zombie en bas. Au bou de la faille tout en bas un acces vers le prochain etage. Drop des ours et Zombies
-12 Grotte qui descend beaucoup avec des Squelettes et areignes **Fil, Os**
+9 Montagne avec un village abandonné peuplé des golems **Fer**  
+10 Foret de sapin (Ours) **Cuir d'Ours** viande d'ours  
+11 Faille au milieux d'une foret de sapin avec Ours en haut et Zombie en bas. Au bou de la faille tout en bas un acces vers le prochain etage. Drop des ours et Zombies  
+12 Grotte qui descend beaucoup avec des Squelettes et areignes **Fil, Os**  
 
-Acces invisible vers le Nether si possible. Creer ce lien entre le fond de la terre et le Nether.
+Acces invisible vers le Nether si possible. Creer ce lien entre le fond de la terre et le Nether.  
 
-13 Hub: Village Infernal. Les villageois occupe ce nouveau village qui est dans le Nether. Ils ont abandonne le precedent car le village du haut de la montagne, a cause du portail que les piglins ont construit,a permit un acces au Piglin Clandestin pour depouiller les villageois.
+13 Hub: Village Infernal. Les villageois occupe ce nouveau village qui est dans le Nether. Ils ont abandonne le precedent car le village du haut de la montagne, a cause du portail que les piglins ont construit,a permit un acces au Piglin Clandestin pour depouiller les villageois.  
 
-14 Nether Wastes (Piglin et Piglin zombie) **Gold**
-15 Basalt Deltas (Squelettes et Wither Squelettes) **Charbon, Os, Fleches**
-16 Soul Sand Valley (Ghast, Squelettes) **Os, Fleches, larme de Gast, Soul Sand** Disposer comme des nuage au dessus de la forteresse (Un raccourcis vers l'etage 22 existera. C'est le passage des pillagers. Il se trouveras Au pied de la forteresse bien cache sous le sol ou dans la forteresse elle meme.)
-17 Forteresse (Blaze, Piglins) **Gold, Bâton de Blaze** (avec poudre faire des poignets en Or rigide)
-18 Forteresse Trone(Blaze, Piglins, Souvereins du Nether(Piglin boss)) **Butin: divers Pierres precieuses**
-TP vers la sortie de la forteresse
-19 Warped Forest, Forêt biscornue (Vagabonds, Piglins) **Gold, Os, Fleche, Champignon Biscornu**
-20 Crimson Forest Forêt carmin (Hoglin, Magma Cube) **Crimson Powder, Viande d'hoglin**
+14 Nether Wastes (Piglin et Piglin zombie) **Gold**  
+15 Basalt Deltas (Squelettes et Wither Squelettes) **Charbon, Os, Fleches**  
+16 Soul Sand Valley (Ghast, Squelettes) **Os, Fleches, larme de Gast, Soul Sand** Disposer comme des nuage au dessus de la forteresse (Un raccourcis vers l'etage 22 existera. C'est le passage des pillagers. Il se trouveras Au pied de la forteresse bien cache sous le sol ou dans la forteresse elle meme.)  
+17 Forteresse (Blaze, Piglins) **Gold, Bâton de Blaze** (avec poudre faire des poignets en Or rigide)  
+18 Forteresse Trone(Blaze, Piglins, Souvereins du Nether(Piglin boss)) **Butin: divers Pierres precieuses**  
+TP vers la sortie de la forteresse  
+19 Warped Forest, Forêt biscornue (Vagabonds, Piglins) **Gold, Os, Fleche, Champignon Biscornu**  
+20 Crimson Forest Forêt carmin (Hoglin, Magma Cube) **Crimson Powder, Viande d'hoglin**  
 
-21 Hub: Village Stronghold. Ce village dans le theme du stronghold se trouve apres avoir gravi la groutte aubout de la foret. La grotte est calme le village laisse un peux de repos et reste ouvert vers une Plaine dangereuse.
+21 Hub: Village Stronghold. Ce village dans le theme du stronghold se trouve apres avoir gravi la groutte aubout de la foret. La grotte est calme le village laisse un peux de repos et reste ouvert vers une Plaine dangereuse.  
 
-22 Plaine parceme de village aneantis (Wither, Pillager et toute la mif) **Saoul Sand, Tete de Wither Squelettes, Etoile de Wither**
+22 Plaine parceme de village aneantis (Wither, Pillager et toute la mif) **Saoul Sand, Tete de Wither Squelettes, Etoile de Wither**  
 
 
 34
