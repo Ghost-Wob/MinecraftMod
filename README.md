@@ -207,10 +207,10 @@ Elles serons de l'un des element:
 Sans eau:
 - Air: Pousse les cibles
 - Feu: Effet de brulure sur les cibles touche
-- Terre: Entrave (sans immobilisation complète) des cibles touche
-
-- Eau: Créer un nouvelle effet avec l'une des autre potion:
-
+- Terre: Entrave (sans immobilisation complète) des cibles touche  
+  
+- Eau: Créer un nouvelle effet avec l'une des autre potion:  
+  
 - Air: En plus de pousser la cible elle purifie momentanément les cibles touche
 - Feu: Créer une zone de vapeur qui fait des dégâts réduit mais sur plusieurs monstre (du moment qu'ils sont dans la zone)
 - Terre: Créer un effet (comme la toile araignée) qui ralentit fortement les cibles touche 
