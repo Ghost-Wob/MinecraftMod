@@ -234,7 +234,7 @@ Aucun equipement ne sera donne mais une table de craft en bois sera donner pour 
 Enssuite faire une genre de survie classique peut etre mais remanié
 
 4 "Premiers pas"
-Prairie classique (Zombie) **Cuir** commun (et bois pour armes)
+Foret Chene et Bouleaux (Zombie) **Cuir** commun (et bois pour armes)
 
 A noter que des table de craft avec d'autre outil de confection serons posable pour etablir un camp.
 Le calme n'existera pas pour les etage offensif
@@ -263,14 +263,20 @@ Acces invisible vers le Nether si possible. Creer ce lien entre le fond de la te
 
 14 Nether Wastes (Piglin et Piglin zombie) **Gold**
 15 Basalt Deltas (Squelettes et Wither Squelettes) **Charbon, Os, Fleches**
-16 Soul Sand Valley (Ghast, Squelettes) **Os, Fleches, larme de Gast, Soul Sand** Disposer comme des nuage au dessus de la forteresse
+16 Soul Sand Valley (Ghast, Squelettes) **Os, Fleches, larme de Gast, Soul Sand** Disposer comme des nuage au dessus de la forteresse (Un raccourcis vers l'etage 22 existera. C'est le passage des pillagers. Il se trouveras Au pied de la forteresse bien cache sous le sol ou dans la forteresse elle meme.)
 17 Forteresse (Blaze, Piglins) **Gold, Bâton de Blaze** (avec poudre faire des poignets en Or rigide)
 18 Forteresse Trone(Blaze, Piglins, Souvereins du Nether(Piglin boss)) **Butin: divers Pierres precieuses**
 TP vers la sortie de la forteresse
 19 Warped Forest, Forêt biscornue (Vagabonds, Piglins) **Gold, Os, Fleche, Champignon Biscornu**
 20 Crimson Forest Forêt carmin (Hoglin, Magma Cube) **Crimson Powder, Viande d'hoglin**
 
-21 ...
+21 Hub: Village Stronghold. Ce village dans le theme du stronghold se trouve apres avoir gravi la groutte aubout de la foret. La grotte est calme le village laisse un peux de repos et reste ouvert vers une Plaine dangereuse.
+
+22 Plaine parceme de village aneantis (Wither, Pillager et toute la mif) **Saoul Sand, Tete de Wither Squelettes, Etoile de Wither**
+
+
+34
+
 Autre :
 Le charbon pour faire de sont stuff en fer un stuff en acier
 Champignon Biscornu faire sechet puis en faire de la poudre. Enduire le bois ou cuir de la poudre pour avoir une base pour le stuff Warden
